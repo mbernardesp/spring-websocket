@@ -1,2 +1,2 @@
 # spring-websocket
-Simple server/client chat with Spring WebSocket
+Simple client/server chat with Spring WebSocket
